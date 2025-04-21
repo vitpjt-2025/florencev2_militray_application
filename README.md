@@ -5,6 +5,8 @@ The project uses a Trained ViT Florence-v2 Base Machine Learning Model for Detec
 
 Dataset link - [https://universe.roboflow.com/capstone2025-mifho/military-base-object-detection](https://universe.roboflow.com/capstone2025-mifho/military-base-object-detection)
 
+The file "pytorch_model.bin" is not added to GitHub due to its huge size (4GB). To reproduce, please add it from the original Florencev2 model website, under the folder location - "florencev2_militray_application/offline_files/local_models/Florence-2-base-ft"
+
 ## Mini model idea:
 ![Mini model idea](https://github.com/user-attachments/assets/b3939a91-10fc-4c48-863b-ec0db8d78a8c)
 ![detections (1)](https://github.com/user-attachments/assets/70602683-74e7-45f1-aa49-ea1ab0cc04a6)
